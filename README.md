@@ -10,8 +10,8 @@ Below are some of my solo projects, and some in cooperation with **Ideaton** com
 ## Video-Intercom
 
 ![Image1](/images/video_intercom/Intercom_2.png)
-![Image1](/images/video_intercom/Stoklosa_wycinek.png)
 ![Image1](/images/video_intercom/Intercom_4.png)
+![Image1](/images/video_intercom/Stoklosa_wycinek.png)
 
 ![Image1](/images/video_intercom/Intercom_8.png)
 ![Image1](/images/video_intercom/Intercom_5.png)
