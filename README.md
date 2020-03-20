@@ -1,7 +1,6 @@
 # My Projects
 
-Below You can find some of my solo projects, and some that
-I was part of in `Ideaton`
+Below are some of my solo projects, and some in cooperation with **Ideaton** company.
 
 ## [![Ideaton](images/ideaton/Ideaton_logo.png)](https://ideaton.pl/ "https://ideaton.pl/") Projects I was part of:
 
@@ -11,16 +10,16 @@ I was part of in `Ideaton`
 ## Video-Intercom
 
 ![Image1](/images/video_intercom/Intercom_2.png)
-![Image1](/images/video_intercom/Intercom_3.png)
+![Image1](/images/video_intercom/Stoklosa_wycinek.png)
 ![Image1](/images/video_intercom/Intercom_4.png)
 
+![Image1](/images/video_intercom/Intercom_8.png)
 ![Image1](/images/video_intercom/Intercom_5.png)
 ![Image1](/images/video_intercom/Intercom_6.png)
-![Image1](/images/video_intercom/Intercom_8.png)
 ![Image1](/images/video_intercom/Video-intercom-3D.png)
 
 
-## Milling Projects
+## Milling
 
 ![Image1](/images/miling/Frezowanie_1.png)
 ![Image1](/images/miling/Frezowanie_2.png)
